@@ -10,5 +10,4 @@ const handleNotFound = (req, res, msg) => {
 
 module.exports = {
   handleNotFound,
-  handleServerError,
 };
